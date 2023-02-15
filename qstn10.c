@@ -136,7 +136,7 @@ void search(){
 		printf("\n3)Insert @ a Position");
 		printf("\n4)Display");
 		printf("\n5)Search");
-		printf("\n0)Quiet\n");
+		printf("\n6)Quit\n");
 		printf("\nChoose option : ");
 		scanf("%d",&opt);
 		switch(opt){
